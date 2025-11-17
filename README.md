@@ -7,28 +7,28 @@ This version adds a graphical interface, game settings screen, error messages, a
 
 Here, I selected to play against the computer.
 
-<img src="https://github.com/bar_brener/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122210.png" width="300" title="Game Setting" />
+<img src="https://github.com/BarBrener/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122210.png" width="300" title="Game Setting" />
 
 ▶️ Starting the Game
 
-<img src="https://github.com/bar_brener/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122224.png" width="350" title="Game Starting" />
+<img src="https://github.com/BarBrener/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122224.png" width="350" title="Game Starting" />
 
 🎲 Game Board
 
-<img src="https://github.com/bar_brener/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122240.png" width="350" title="Game Board" />
+<img src="https://github.com/BarBrener/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122240.png" width="350" title="Game Board" />
 
 ⚠️ Error Screens
 Invalid Move
 
-<img src="https://github.com/bar_brener/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122258.png" width="300" title="Invalid Move Error" />
+<img src="https://github.com/BarBrener/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122258.png" width="300" title="Invalid Move Error" />
 
 Not Your Turn
 
-<img src="https://github.com/bar_brener/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122307.png" width="150" title="Not Your Turn Error" />
+<img src="https://github.com/BarBrener/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122307.png" width="150" title="Not Your Turn Error" />
 
 🏆 Game Over
 
-<img src="https://github.com/bar_brener/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122600.png" width="400" title="Game Over" />
+<img src="https://github.com/BarBrener/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122600.png" width="400" title="Game Over" />
 
 ✔️ Koby wins the game!
 🔧 Languages & Tools

@@ -30,7 +30,7 @@ Not Your Turn
 
 <img src="https://github.com/BarBrener/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122600.png" width="400" title="Game Over" />
 
-✔️ Koby wins the game!
+✔️ Bar wins the game!
 🔧 Languages & Tools
 <div style="display:flex; gap:15px;">
 
